@@ -1,0 +1,15 @@
+.banner-background {
+    background-image: url('../../assets/bg-shadow.png');
+    background-size: cover;
+    background-position: center;
+    background-color: black;
+  }
+
+  .glow-button {
+    padding: 1rem 2.5rem; /* Adjust padding for a unique look */
+    box-shadow: 0 0 10px rgba(255, 255, 0, 0.6), 0 0 20px rgba(255, 255, 0, 0.4); /* Glowing effect */
+  }
+
+  /* bg-gradient-to-r from-black via-gray-800 to-purple-800 text-white */
+
+  /* bg-yellow-400 text-black py-2 px-4 rounded-full font-bold hover:bg-yellow-500 transition */
